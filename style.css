@@ -133,7 +133,7 @@ body {
 .wedding p {
   position: fixed;
   top: 85%;
-  left: 48%;
+  left: 49%;
   font-family: "Saudagar";
   font-size: 3rem;
   color: var(--telang);
@@ -650,7 +650,7 @@ body {
   min-height: 100vh !important;
   background-size: cover;
   background-position: center;
-  background-image: url(img/BG.jpg);
+  /* background-image: url(img/BG.jpg); */
   padding: 5rem;
   /* z-index: 1; */
   /* align-items: center; */
